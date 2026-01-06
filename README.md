@@ -1,4 +1,4 @@
-\# Olist E-Commerce Data Analysis 🇧🇷
+\# Olist E-Commerce Data Analysis
 
 Project focused on analyzing sales, logistics, and customer satisfaction for the Olist dataset.
 
@@ -17,6 +17,4 @@ Project focused on analyzing sales, logistics, and customer satisfaction for the
 5\. What proportion of orders are delivered late?
 
 6\. Is there a relationship between delivery delays and review scores?
-
-7\. Which sellers have the highest sales volume?
 
