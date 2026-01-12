@@ -18,9 +18,3 @@ Project focused on analyzing sales, logistics, and customer satisfaction for the
 5. What proportion of orders are delivered late?
 
 6. Is there a relationship between delivery delays and review scores?
-
-<<<<<<< HEAD
-=======
-7. Which sellers have the highest sales volume?
-
->>>>>>> 0f0b78178d9e07756353103a1f2cc5685ce63b7a
