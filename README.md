@@ -7,6 +7,10 @@
 ## Executive Summary
 This project provides a comprehensive data-driven audit of **100,000+ anonymized orders** from Olist (2016–2018). Beyond simple visualization, the analysis applies **Statistical Hypothesis Testing** to quantify the "Expectation Gap" in logistics and its direct impact on brand reputation and customer retention.
 
+<p align="center">
+  <img src="docs/images/expectation_gap.png" alt="Olist Logistics Expectation Gap Chart" width="800">
+</p>
+
 ## Key Business Insights
 * **The Black Friday Pivot:** The November 2017 spike was not just a seasonal peak; it permanently established a **new monthly revenue baseline**, signaling a structural expansion of the platform's market share.
 * **Logistics Penalty:** A **Late Delivery** isn't just a delay; it's a **49% drop in satisfaction** (from 4.29 to 2.27 stars).
@@ -19,7 +23,7 @@ This project provides a comprehensive data-driven audit of **100,000+ anonymized
 * **Time Series:** Resampling and seasonal analysis to detect growth trajectories and holiday impacts.
 * **Visualization:** Seaborn and Matplotlib (Violin plots for distribution density, Time-series decomposition).
 
-## Analysis Architecture
+## Analysis Scope
 1.  **Revenue Drivers:** Identification of Top 10 categories (Health & Beauty leading with R$ 1.2M+).
 2.  **Growth Trajectory:** Time-series analysis focusing on consistent data from Jan 2017 to Aug 2018.
 3.  **Spatial Distribution:** Geographic mapping of sales by Brazilian states and regional concentration.
