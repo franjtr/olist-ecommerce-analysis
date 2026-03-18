@@ -1,5 +1,7 @@
 # Olist E-Commerce: Strategic Insights & Statistical Analysis
 
+[![Notebook](https://img.shields.io/badge/OPEN_INTERACTIVE_NOTEBOOK-orange?style=for-the-badge&logo=jupyter)](https://github.com/franjtr/olist-ecommerce-analysis/blob/main/Notebooks/Olist_E-Commerce_Case_Study.ipynb)
+
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Scipy](https://img.shields.io/badge/Stats-SciPy-green.svg)](https://scipy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
